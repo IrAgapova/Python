@@ -4,7 +4,3 @@ if n in my_list[0:3]: print ("зима")
 if n in my_list[3:6]: print ("весна")
 if n in my_list[6:9]: print("лето")
 if n in my_list[9:13]: print ("осень")
-
-
-
-

@@ -9,9 +9,3 @@ time = (
     f"{seconds}"
 )
 print(time)
-
-
-
-
-
-

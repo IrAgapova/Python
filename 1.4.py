@@ -1,4 +1,3 @@
-n = int (input ("Введите целое положительное число:"))
 max = 0
 num_n = n
 while num_n > 0:

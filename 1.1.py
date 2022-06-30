@@ -11,3 +11,4 @@ print("Возраст",age,"лет")
 print("В браке находится", married)
 print("У",name, surname, "есть сын зовут", son)
 print(name,surname,sts,'в браке')
+
